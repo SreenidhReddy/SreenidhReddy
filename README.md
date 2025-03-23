@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SreenidhReddyTalakanti
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DSA in JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through this mail -> sreenidhreddytalakanti@gmail.com
